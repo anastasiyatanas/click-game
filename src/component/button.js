@@ -6,7 +6,7 @@ import '../styles/button.css';
 const images = [
     {id:0, imgURL: "assets/img/smart.jpeg", clicked:false},
     {id:1, imgURL: "assets/img/Evil-Kermit.jpg", clicked:false},
-    {id:2, imgURL: "assets/img/Distracted-boyfriend.jpg", clicked:false},
+    {id:2, imgURL: "assets/img/Distracted-Boyfriend.jpg", clicked:false},
     {id:3, imgURL: "assets/img/tellMeMore.jpeg", clicked:false},
     {id:4, imgURL: "assets/img/dafuq2.jpeg", clicked:false},
     {id:5, imgURL: "assets/img/dafuq.jpeg", clicked:false},
