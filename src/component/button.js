@@ -4,15 +4,15 @@ import '../styles/button.css';
 
 
 const images = [
-    {id:0, imgURL: "assets/img/smart.jpeg", clicked:false},
-    {id:1, imgURL: "assets/img/Evil-Kermit.jpg", clicked:false},
-    {id:2, imgURL: "assets/img/Distracted-boyfriend.jpg", clicked:false},
-    {id:3, imgURL: "assets/img/tellMeMore.jpeg", clicked:false},
-    {id:4, imgURL: "assets/img/dafuq2.jpeg", clicked:false},
-    {id:5, imgURL: "assets/img/dafuq.jpeg", clicked:false},
-    {id:6, imgURL: "assets/img/cat.jpg", clicked:false},
-    {id:7, imgURL: "assets/img/That-Would-Be-Great.jpg", clicked:false},
-    {id:8, imgURL: "assets/img/mmm.jpeg", clicked:false},
+    {id:0, imgURL: "assets/img/pic1.jpeg", clicked:false},
+    {id:1, imgURL: "assets/img/pic2.jpg", clicked:false},
+    {id:2, imgURL: "assets/img/pic3.jpg", clicked:false},
+    {id:3, imgURL: "assets/img/pic4.jpeg", clicked:false},
+    {id:4, imgURL: "assets/img/pic5.jpeg", clicked:false},
+    {id:5, imgURL: "assets/img/pic6.jpeg", clicked:false},
+    {id:6, imgURL: "assets/img/pic7.jpg", clicked:false},
+    {id:7, imgURL: "assets/img/pic8.jpg", clicked:false},
+    {id:8, imgURL: "assets/img/pic9.jpeg", clicked:false},
 ];
 
 
